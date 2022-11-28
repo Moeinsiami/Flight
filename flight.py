@@ -23,3 +23,4 @@ for person in people:
         print(f'no avaiable seat for {person}')
 
 
+print("mmmmm")
