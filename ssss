@@ -1,0 +1,42 @@
+[33mcommit be18e43e78c605411ad89f0df953597818082977[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 96006c5 92c6586
+Author: moeinsiami <moeins1216@gmail.com>
+Date:   Thu Oct 27 05:30:52 2022 -0700
+
+    fix color
+
+[33mcommit 96006c5b6c23dddc95a200d9280ecfab83b6c68a[m
+Author: moeinsiami <moeins1216@gmail.com>
+Date:   Thu Oct 27 05:27:25 2022 -0700
+
+    change blue color to green for h1
+
+[33mcommit 92c6586bef7f31c1ff3d09b01713014bdc1cb54c[m
+Author: Moeinsiami <106267829+Moeinsiami@users.noreply.github.com>
+Date:   Thu Oct 27 05:25:47 2022 -0700
+
+    Update index.html
+
+[33mcommit 665e5eaa41e07b1efed4f0cb8c1a27e9dd8747a7[m
+Author: moeinsiami <moeins1216@gmail.com>
+Date:   Thu Oct 27 05:24:42 2022 -0700
+
+    add color for h1
+
+[33mcommit 3a1cbcd7958ea17cfe739c488a014d3887582d62[m
+Author: Moeinsiami <106267829+Moeinsiami@users.noreply.github.com>
+Date:   Thu Oct 27 04:37:25 2022 -0700
+
+    add ! in h1
+
+[33mcommit 703ad8e01d03d5ec9484ade8ca3a8b3d4e6d5ac9[m
+Author: moeinsiami <moeins1216@gmail.com>
+Date:   Thu Oct 27 04:32:54 2022 -0700
+
+    add h1
+
+[33mcommit ff8665c2430bfb21c149627a8f41f2d8d987dc3e[m
+Author: moeinsiami <moeins1216@gmail.com>
+Date:   Thu Oct 27 04:14:59 2022 -0700
+
+    new file craet
